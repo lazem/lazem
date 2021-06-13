@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazem)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31p6wz2uwx7uevvsbbmyibgpml2y)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazem)](https://github.com/anuraghazra/github-readme-stats)
 
